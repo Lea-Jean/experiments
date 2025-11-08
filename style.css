@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(33, 75, 22) !important;
+}
+
+h1, h2, h3 {
+    background-color: black; 
+    /* margin: 0;  */
+    color: darkgoldenrod;
+    font-size: 30px;
+    /*color: rgba(43, 65, 36, 0.938)*/
+    }
+.important {
+    color: red
+    }
+.big {
+    font-size: 50px;
+    }
+#the-one {
+    color: blue;
+    }
+
